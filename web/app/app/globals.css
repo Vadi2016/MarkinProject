@@ -1,0 +1,7 @@
+.leaflet-control-attribution.leaflet-control {
+    display: none;
+}
+
+.leaflet-container {
+    border-radius: 24px;
+}
