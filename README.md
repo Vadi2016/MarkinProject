@@ -10,7 +10,9 @@
 
 Есть возможность выгрузить отчет и отправить по почте
 
-[Демонстраия работы проекта в веб](http://ovz3.j94191095.m6x5m.vps.myjino.ru) 
+- [Демонстраия работы проекта в веб](http://ovz3.j94191095.m6x5m.vps.myjino.ru)
+
+- [Видео работы приложения](https://drive.google.com/file/d/1IM9NjaVHE-dflybM4V7X2nueP58fZNAM/view?usp=share_link)
 
 # Аналитика по проекту и модель
 Выполнена в [Jupyter Notebook](https://jupyter.org)
@@ -20,8 +22,7 @@
 
 ## Теребования для web
 - node v18.15.0
-- Next.js 13
-
+- Next.js 1
 
 
 ## Как это работает
