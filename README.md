@@ -1,5 +1,5 @@
 # MarkinProject
-![alt text](https://github.com/Vadi2016/MarkinProject/tree/main/web/index.png?raw=true)
+![alt text](https://github.com/Vadi2016/MarkinProject/blob/main/web/index.png)
 ## Описание
 Реализовали среду для аналитики, где на карте отображается общая информация по инцидентам
 с некачественными товарами в стране
