@@ -1,16 +1,16 @@
-import LogoModule from "./logo.module";
-import style from "./sidebar.module.scss"
+import LogoModule from "@/app/components/logo.module";
+import style from "@/app/components/sidebar.module.scss"
 import DropdownItem from "@/app/components/dropdown.item";
-import lek from '../../public/lek.png'
-import milk from '../../public/milk.png'
-import water from '../../public/watter.png'
-import shoos from '../../public/shoos.png'
-import tabak from '../../public/tabak.png'
-import parfum from '../../public/parfum.png'
-import shorts from '../../public/shorts.png'
-import photo from '../../public/photo.png'
-import tiers from '../../public/tiers.png'
-import shuba from '../../public/shuba.png'
+import lek from '@/public/lek.png'
+import milk from '@/public/milk.png'
+import water from '@/public/watter.png'
+import shoos from '@/public/shoos.png'
+import tabak from '@/public/tabak.png'
+import parfum from '@/public/parfum.png'
+import shorts from '@/public/shorts.png'
+import photo from '@/public/photo.png'
+import tiers from '@/public/tiers.png'
+import shuba from '@/public/shuba.png'
 import {useState} from "react";
 
 export default function SideBarModule() {
@@ -58,7 +58,7 @@ export default function SideBarModule() {
     ]);
 
     const [isShowProducts, setIsShoProducts] = useState(false)
-    const [selectedProduct, setSelectedProduct] = useState({name: 'Табак'})
+    const [selectedProduct, setSelectedProduct] = useState({name: 'Молочная продукция'})
 
     return (
         <div className={style.sidebar}>

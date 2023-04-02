@@ -1,4 +1,4 @@
-import style from "./main.module.scss";
+import style from "@/app/components/main.module.scss";
 
 export default function WrapperLayoutModule({children}) {
     return (

@@ -1,4 +1,4 @@
-import style from "./modal.module.scss";
+import style from "@/app/components/modal.module.scss";
 
 export default function ModalModule({children}) {
     return (

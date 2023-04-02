@@ -1,5 +1,5 @@
-import styles from './home.module.scss'
-import SideBarModule from "./sidebar.module";
+import styles from '@/app/components/home.module.scss'
+import SideBarModule from "@/app/components/sidebar.module";
 
 export default function MainLayout({children}) {
     return (
